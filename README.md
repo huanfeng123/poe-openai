@@ -1,4 +1,9 @@
-# poe-openai-proxy
+# poe-openai-中转代理
+
+POE密钥可在 [GPT POE自助下单平台](https://fk.gpt0.icu/) 下单！
+
+POE密钥可在 [GPT POE自助下单平台](https://fk.gpt0.icu/) 下单！
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/caoyunzhou/poe-openai-proxy)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/caoyunzhou/poe-openai-proxy/latest)
@@ -11,6 +16,7 @@
 ## 声明：
 
 - 此项目只发布于 GitHub，基于 GNU 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+- 转载与：https://github.com/CaoYunzhou/poe-openai-proxy
 
 ## 安装
 
@@ -181,6 +187,7 @@ curl --location 'https://poe.aivvm.com/v1/chat/completions' \
 ## 致谢
 
 - <https://github.com/ading2210/poe-api>
+- <https://github.com/CaoYunzhou/poe-openai-proxy>
 - <https://github.com/juzeon/poe-openai-proxy>
 - <https://github.com/lwydyby/poe-api>
 
