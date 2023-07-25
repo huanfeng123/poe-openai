@@ -23,7 +23,7 @@ POE密钥可在 [GPT POE自助下单平台](https://fk.gpt0.icu/) 下单！
 1. 将这个仓库克隆到你的本地机器：
 
 ```
-git clone https://github.com/caoyunzhou/poe-openai-proxy.git
+git clone https://github.com/huanfeng123/poe-openai.git
 cd poe-openai-proxy/
 ```
 
